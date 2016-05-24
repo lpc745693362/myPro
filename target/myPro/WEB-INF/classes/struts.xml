@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="GBK" ?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+
+    <package name="test" namespace="/test" extends="struts-default">
+
+        <interceptors>
+            <interceptor name="hello" class="com.lpc.interceptor.MyInterceptor">
+                <param name="name">一念缘起，一步禅空</param>
+            </interceptor>
+        </interceptors>
+
+        <!-- test -->
+        <action name="test" class="com.lpc.user.test.UserAuction">
+            <interceptor-ref name="hello"/>
+            <result name="success">/WEB-INF/test/success.jsp</result>
+        </action>
+
+        <!-- 文件上传 -->
+        <action name="fileUpload" class="com.lpc.struts.FileUploadAction">
+            <result name="success">/WEB-INF/test/upload.jsp</result>
+        </action>
+
+        <!-- 文件下载 -->
+        <action name="fileDownload" class="com.lpc.struts.FileDownLoadAction">
+            <result name="success" type="stream">
+                <param name="contentType">application/octet-stream;charset=UTF-8</param>
+                <param name="contentDisposition">attachment;fileName="${fileName}"</param>
+                <param name="inputName">downloadFile</param>
+                <param name="bufferSize">1024</param>
+            </result>
+        </action>
+
+    </package>
+
+</struts>

@@ -1,0 +1,29 @@
+<!DOCTYPE sqlMap PUBLIC "-//iBATIS.com//DTD SQL Map 2.0//EN"
+        "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="User">
+    
+    <typeAlias alias="User" type="com.lpc.user.entity.User"/>
+    
+    <sql id="allColumns">
+        ID,
+        NAME,
+        AGE,
+        BIRTHDAY
+    </sql>
+        
+    <resultMap id="userResMap" class="User">
+        <result property="id" column="id"></result>
+        <result property="name" column="name"></result>
+        <result property="age" column="age"></result>
+        <result property="birthDay" column="birthDay"></result>
+    </resultMap>
+
+    <select id="selectById" parameterClass="java.lang.Long" resultMap="userResMap">
+        SELECT
+        <include refid="allColumns"></include>
+        FROM USER
+        WHERE id = #id#
+    </select>
+
+</sqlMap>
