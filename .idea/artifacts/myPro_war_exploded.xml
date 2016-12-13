@@ -40,7 +40,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target/MANIFEST.MF" />
+        <element id="file-copy" path="D:\Work\IntelliJ IDEA 14.0.2\work\myPro\target/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="myPro/web/Web" />
     </root>

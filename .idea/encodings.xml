@@ -2,8 +2,12 @@
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$/src/main/java/com/lpc/design/decorator/ManagerA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lpc/design/decorator/ManagerB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/BigBanana.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/FruitFactory.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/SmallFruitFactory.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/method/HumanFactory.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/lpc/design/status/NormalStatus.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/lpc/sequence/SequenceUtil.java" charset="GBK" />
   </component>

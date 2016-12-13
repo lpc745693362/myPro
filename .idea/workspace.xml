@@ -2,152 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c6ff419-548a-4148-8e28-8b7895a453c7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_commons_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_tree_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itext_asian_5_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ibatis_ibatis_sqlmap_2_3_4_726.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_core_2_3_16_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_json_plugin_2_3_16_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_spring_plugin_2_3_16_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_16_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_2_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_2_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/myPro_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/myPro_war_exploded.xml" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\src\test\java\SequenceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\src\test\java\UserServiceImplTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\META-INF\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\file\FileTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\file\ReadFileByByte.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\file\ReadFileByChar.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\file\ReadFileByLine.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\file\WriteFile.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\filter\FilterDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\http\HttpGet.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\http\HttpPost.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\interceptor\MyInterceptor.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\sequence\Sequence$Step.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\sequence\Sequence.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\sequence\SequenceUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\struts\FileDownLoadAction.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\struts\FileUploadAction.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\test\test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\thread\HelloThread.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\thread\pool\MyTask.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\thread\pool\ThreadPoolTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\user\dao\UserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\user\dao\impl\UserDaoImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\user\entity\User.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\user\service\UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\user\service\UserServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\user\test\UserAuction.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\util\DESUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\com\lpc\util\ReflectionUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\common.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\mapper\User.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\spring-config-dao.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\spring-config-datasource-druid.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\spring-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\sqlmap-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\classes\struts.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\asm-3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\asm-commons-3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\asm-tree-3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\commons-fileupload-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\commons-io-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\commons-lang3-3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\druid-1.0.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\freemarker-2.3.19.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\ibatis-sqlmap-2.3.4.726.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\javassist-3.11.0.GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\log4j-1.2.17.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\mysql-connector-java-5.1.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\ognl-3.0.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\servlet-api-2.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\spring-2.5.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\spring-aop-3.0.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\spring-asm-3.0.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\spring-beans-3.0.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\spring-context-3.0.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\spring-core-3.0.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\spring-expression-3.0.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\spring-test-2.5.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\spring-web-3.0.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\struts2-core-2.3.16.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\struts2-json-plugin-2.3.16.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\struts2-spring-plugin-2.3.16.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\lib\xwork-core-2.3.16.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\test\success.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\test\upload.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\WEB-INF\web.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\myPro\index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\test-classes\BaseTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\test-classes\SequenceTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\target\test-classes\UserServiceImplTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/cache/AbstractCacheMap$CacheObject.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/cache/AbstractCacheMap$CacheObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/cache/AbstractCacheMap.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/cache/AbstractCacheMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/example2/AbstractHumanFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/example2/AbstractHumanFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/adapter/Adapter.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/adapter/Adapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/status/AngryStatus.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/status/AngryStatus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/Apple.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/Apple.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/Banana.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/Banana.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/BigApple.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/BigApple.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/BigBanana.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/BigBanana.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/BigFruitFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/BigFruitFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/cache/Cache.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/cache/Cache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/command/Command.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/command/Command.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/adapter/ConcreteAdapter.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/adapter/ConcreteAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/command/ConcreteCommand.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/command/ConcreteCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/observer/ConcreteObservable.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/observer/ConcreteObservable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/observer/ConcreteObserver.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/observer/ConcreteObserver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/strategy/ConcreteStrategyA.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/strategy/ConcreteStrategyA.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/strategy/ConcreteStrategyB.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/strategy/ConcreteStrategyB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/strategy/Context.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/strategy/Context.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/util/DESUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/util/DESUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Decorator.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Decorator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Decorator1.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Decorator1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Decorator2.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Decorator2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Decorator3.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Decorator3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/adapter/EatThing.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/adapter/EatThing.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/Employe.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/Employe.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/export/ExportPdf.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/export/ExportPdf.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/export/ExportTest.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/export/ExportTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/cache/FIFOCache.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/cache/FIFOCache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/Female.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/Female.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/FemaleFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/FemaleFactory.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/struts/FileDownLoadAction.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/struts/FileDownLoadAction.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/file/FileTest.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/file/FileTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/struts/FileUploadAction.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/struts/FileUploadAction.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/filter/FilterDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/filter/FilterDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/Fruit.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/Fruit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/FruitFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/FruitFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/status/HappyStatus.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/status/HappyStatus.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/thread/HelloThread.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/thread/HelloThread.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/http/HttpGet.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/http/HttpGet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/http/HttpPost.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/http/HttpPost.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Human.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Human.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/Human.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/Human.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/HumanFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/HumanFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/example2/HumanFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/example2/HumanFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/command/Invoker.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/command/Invoker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/cache/LFUCache.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/cache/LFUCache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/cache/LRUCache$1.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/cache/LRUCache$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/cache/LRUCache.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/cache/LRUCache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/Male.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/Male.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/MaleFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/MaleFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/Manager.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/Manager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/ManagerA.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/ManagerA.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/ManagerB.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/ManagerB.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/interceptor/MyInterceptor.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/interceptor/MyInterceptor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/thread/pool/MyTask.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/thread/pool/MyTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/status/NormalStatus.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/status/NormalStatus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/export/PDFBuild.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/export/PDFBuild.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Person.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Person.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/status/PersonL.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/status/PersonL.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/Project.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/Project.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/file/ReadFileByByte.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/file/ReadFileByByte.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/file/ReadFileByChar.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/file/ReadFileByChar.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/file/ReadFileByLine.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/file/ReadFileByLine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/command/Receiver.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/command/Receiver.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/util/ReflectionUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/util/ReflectionUtils.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/sequence/Sequence$Step.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/sequence/Sequence$Step.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/sequence/Sequence.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/sequence/Sequence.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/sequence/SequenceUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/sequence/SequenceUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/singleton/SingletonOne.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/singleton/SingletonOne.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/singleton/SingletonThree.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/singleton/SingletonThree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/singleton/SingletonTwo.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/singleton/SingletonTwo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/SmallApple.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/SmallApple.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/SmallBanana.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/SmallBanana.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/SmallFruitFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/SmallFruitFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/status/Status.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/status/Status.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/strategy/Strategy.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/strategy/Strategy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/adapter/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/adapter/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/command/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/command/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/decorator/example2/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/abstract1/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/example2/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/factory/method/example2/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/observer/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/observer/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/singleton/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/singleton/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/status/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/status/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/strategy/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/strategy/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/export/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/export/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/annotation/TestUserName.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/annotation/TestUserName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/design/adapter/Thing.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/design/adapter/Thing.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/thread/pool/ThreadPoolTest.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/thread/pool/ThreadPoolTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/user/entity/User.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/user/entity/User.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/user/test/UserAuction.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/user/test/UserAuction.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/user/dao/UserDao.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/user/dao/UserDao.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/user/dao/impl/UserDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/user/dao/impl/UserDaoImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/annotation/UserName.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/annotation/UserName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/annotation/UserNameAnnotations.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/annotation/UserNameAnnotations.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/user/service/UserService.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/user/service/UserService.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/user/service/UserServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/user/service/UserServiceImpl.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/file/WriteFile.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/file/WriteFile.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lpc/test/test.class" afterPath="$PROJECT_DIR$/target/classes/com/lpc/test/test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4j.properties" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myPro.iml" afterPath="$PROJECT_DIR$/myPro.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/myPro_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/myPro_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring-config-datasource-druid.xml" afterPath="$PROJECT_DIR$/target/classes/spring-config-datasource-druid.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring-config.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring-config.xml" afterPath="$PROJECT_DIR$/target/classes/spring-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/struts.xml" afterPath="$PROJECT_DIR$/src/main/resources/struts.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/struts.xml" afterPath="$PROJECT_DIR$/target/classes/struts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lpc/test/test.java" afterPath="$PROJECT_DIR$/src/main/java/com/lpc/test/test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myPro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -173,51 +136,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="struts.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/struts.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="867">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SequenceUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/sequence/SequenceUtil.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="850">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.43080357" vertical-offset="1637" max-vertical-offset="2601">
+              <caret line="119" column="14" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring-config.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
+      <file leaf-file-name="BigBanana.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/BigBanana.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5752961" vertical-offset="0" max-vertical-offset="591">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="21" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring-config-dao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config-dao.xml">
+      <file leaf-file-name="ManagerB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/decorator/ManagerB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="561">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -236,6 +189,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/SmallFruitFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lpc/sequence/SequenceUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/FruitFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lpc/design/decorator/ManagerB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lpc/design/factory/method/HumanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/BigBanana.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -249,6 +207,11 @@
         <option name="userSettingsFile" value="D:\Work\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="development" />
+      </list>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -260,20 +223,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="myPro Maven Webapp" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="myPro Maven Webapp" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -334,11 +283,10 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -353,7 +301,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myPro1" />
+              <option name="myItemId" value="myPro" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -363,7 +311,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myPro1" />
+              <option name="myItemId" value="myPro" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -385,7 +333,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myPro1" />
+              <option name="myItemId" value="myPro" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -403,7 +351,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myPro1" />
+              <option name="myItemId" value="myPro" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -419,8 +367,205 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sequence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="method" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="abstract1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decorator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -438,13 +583,15 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Work\IntelliJ IDEA 14.0.2\work\myPro1\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.myProject">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -492,6 +639,17 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -581,6 +739,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
@@ -704,7 +867,86 @@
       <envs />
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="false" name="myProject" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.61" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="myPro:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_myPro" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55254" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="myPro:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.myProject" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -714,44 +956,47 @@
       <option name="number" value="Default" />
       <updated>1481597776243</updated>
       <workItem from="1481597777673" duration="738000" />
+      <workItem from="1481598749709" duration="167000" />
+      <workItem from="1481600510156" duration="816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="738000" />
+    <option name="totallyTimeSpent" value="1721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2228145" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17004265" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -774,12 +1019,94 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/FruitFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="306">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/BigBanana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/decorator/ManagerB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="561">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/method/HumanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="272">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="867">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/sequence/SequenceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="782">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="561">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/status/NormalStatus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +1114,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -804,19 +1130,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1738" max-vertical-offset="2329">
-          <caret line="111" column="15" selection-start-line="111" selection-start-column="15" selection-end-line="111" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/common.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,15 +1155,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/sequence/SequenceUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="850">
+        <state vertical-scroll-proportion="0.23011844" vertical-offset="0" max-vertical-offset="782">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5752961" vertical-offset="0" max-vertical-offset="591">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="21" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="561">
+        <state vertical-scroll-proportion="0.46112117" vertical-offset="0" max-vertical-offset="561">
           <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
@@ -854,8 +1178,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+        <state vertical-scroll-proportion="0.11505922" vertical-offset="0" max-vertical-offset="591">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/method/HumanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -868,10 +1200,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/FruitFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5752961" vertical-offset="0" max-vertical-offset="591">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="21" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.094866075" vertical-offset="0" max-vertical-offset="896">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/factory/abstract1/BigBanana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lpc/design/decorator/ManagerB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43080357" vertical-offset="1637" max-vertical-offset="2601">
+          <caret line="119" column="14" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
           <folding />
         </state>
       </provider>
