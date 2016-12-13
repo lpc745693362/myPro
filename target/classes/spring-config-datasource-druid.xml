@@ -6,22 +6,22 @@
 
 
     <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
-        <!-- »ù±¾ÊôÐÔ url¡¢user¡¢password -->
+        <!-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ urlï¿½ï¿½userï¿½ï¿½password -->
         <property name="driverClassName" value="${jdbc.driverClassName}" />
         <property name="url" value="${jdbc.url}" />
         <property name="username" value="${jdbc.username}" />
         <property name="password" value="${jdbc.password}" />
-        <!-- ÅäÖÃ³õÊ¼»¯´óÐ¡¡¢×îÐ¡¡¢×î´ó -->
+        <!-- ï¿½ï¿½ï¿½Ã³ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½ï¿½ï¿½ï¿½ -->
         <property name="initialSize" value=" ${jdbc.initialPoolSize}" />
         <property name="minIdle" value="${jdbc.minPoolSize}" />
         <property name="maxActive" value="${jdbc.maxPoolSize}" />
-        <!-- ÅäÖÃ»ñÈ¡Á¬½ÓµÈ´ý³¬Ê±µÄÊ±¼ä -->
+        <!-- ï¿½ï¿½ï¿½Ã»ï¿½È¡ï¿½ï¿½ï¿½ÓµÈ´ï¿½Ê±ï¿½ï¿½Ê±ï¿½ï¿½ -->
         <property name="maxWait" value="${jdbc.maxWait}" />
-        <!-- ÅäÖÃ¼ä¸ô¶à¾Ã²Å½øÐÐÒ»´Î¼ì²â£¬¼ì²âÐèÒª¹Ø±ÕµÄ¿ÕÏÐÁ¬½Ó£¬µ¥Î»ÊÇºÁÃë -->
+        <!-- ï¿½ï¿½ï¿½Ã¼ï¿½ï¿½ï¿½ï¿½Ã²Å½ï¿½ï¿½ï¿½Ò»ï¿½Î¼ï¿½â£¬ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½Ø±ÕµÄ¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó£ï¿½ï¿½ï¿½Î»ï¿½Çºï¿½ï¿½ï¿½ -->
         <property name="timeBetweenEvictionRunsMillis" value="${jdbc.timeBetweenEvictionRunsMillis}" />
-        <!-- ÅäÖÃÒ»¸öÁ¬½ÓÔÚ³ØÖÐ×îÐ¡Éú´æµÄÊ±¼ä£¬µ¥Î»ÊÇºÁÃë -->
+        <!-- ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú³ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ä£¬ï¿½ï¿½Î»ï¿½Çºï¿½ï¿½ï¿½ -->
         <property name="minEvictableIdleTimeMillis" value="${jdbc.minEvictableIdleTimeMillis}" />
-        <!-- ÑéÖ¤Êý¾Ý¿âÁ¬½ÓµÄÓÐÐ§ÐÔ -->
+        <!-- ï¿½ï¿½Ö¤ï¿½ï¿½Ý¿ï¿½ï¿½ï¿½ï¿½Óµï¿½ï¿½ï¿½Ð§ï¿½ï¿½ -->
         <property name="validationQuery" value="${jdbc.validationQuery}" />
         <!--  -->
         <property name="validationQueryTimeout" value="${jdbc.validationQueryTimeout}" />

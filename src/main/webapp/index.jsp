@@ -31,5 +31,10 @@
 
         tang.jpc：<a href="/test/fileDownload.action">点击下载</a><br/>
 
+        <h2>导出</h2>
+
+        <a href="/test/export_export.action">导出无水印</a><br/>
+        <a href="/test/export_exportSY.action">导出有水印</a><br/>
+
     </body>
 </html>

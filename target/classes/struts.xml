@@ -8,7 +8,7 @@
 
         <interceptors>
             <interceptor name="hello" class="com.lpc.interceptor.MyInterceptor">
-                <param name="name">Ò»ÄîÔµÆð£¬Ò»²½ìø¿Õ</param>
+                <param name="name">Ò»ï¿½ï¿½Ôµï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½</param>
             </interceptor>
         </interceptors>
 
@@ -18,18 +18,25 @@
             <result name="success">/WEB-INF/test/success.jsp</result>
         </action>
 
-        <!-- ÎÄ¼þÉÏ´« -->
+        <!-- ï¿½Ä¼ï¿½ï¿½Ï´ï¿½ -->
         <action name="fileUpload" class="com.lpc.struts.FileUploadAction">
             <result name="success">/WEB-INF/test/upload.jsp</result>
         </action>
 
-        <!-- ÎÄ¼þÏÂÔØ -->
+        <!-- ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ -->
         <action name="fileDownload" class="com.lpc.struts.FileDownLoadAction">
             <result name="success" type="stream">
                 <param name="contentType">application/octet-stream;charset=UTF-8</param>
                 <param name="contentDisposition">attachment;fileName="${fileName}"</param>
                 <param name="inputName">downloadFile</param>
                 <param name="bufferSize">1024</param>
+            </result>
+        </action>
+
+        <action name="export_*" method="{1}" class="com.lpc.export.ExportPdf">
+            <result name="exportpdf" type="stream">
+                <param name="inputName">inputStream</param>
+                <param name="ContentDisposition">attachment;filename=${fileName}</param>
             </result>
         </action>
 

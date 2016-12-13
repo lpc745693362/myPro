@@ -33,6 +33,13 @@
             </result>
         </action>
 
+        <action name="export_*" method="{1}" class="com.lpc.export.ExportPdf">
+            <result name="exportpdf" type="stream">
+                <param name="inputName">inputStream</param>
+                <param name="ContentDisposition">attachment;filename=${fileName}</param>
+            </result>
+        </action>
+
     </package>
 
 </struts>
