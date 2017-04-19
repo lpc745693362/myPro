@@ -40,6 +40,11 @@
             </result>
         </action>
 
+        <!-- µ¼Èëexcel -->
+        <action name="importExcel" class="com.lpc.struts.ImportExcelAction">
+            <result name="success">/WEB-INF/test/success.jsp</result>
+        </action>
+
     </package>
 
 </struts>

@@ -72,6 +72,7 @@ com\lpc\design\decorator\example2\Decorator1.class
 com\lpc\user\service\UserServiceImpl.class
 com\lpc\design\factory\abstract1\Apple.class
 com\lpc\design\factory\abstract1\SmallBanana.class
+com\lpc\struts\ImportExcelAction.class
 com\lpc\annotation\UserName.class
 com\lpc\design\observer\ConcreteObserver.class
 com\lpc\design\status\Status.class
@@ -85,6 +86,7 @@ com\lpc\design\factory\method\example2\HumanFactory.class
 com\lpc\design\command\ConcreteCommand.class
 com\lpc\design\decorator\Employe.class
 com\lpc\design\strategy\Test.class
+com\lpc\struts\Sku.class
 com\lpc\sequence\Sequence.class
 com\lpc\design\observer\Test.class
 com\lpc\design\factory\abstract1\Banana.class
@@ -98,5 +100,6 @@ com\lpc\design\decorator\Project.class
 com\lpc\design\status\NormalStatus.class
 com\lpc\thread\HelloThread.class
 com\lpc\design\factory\abstract1\BigBanana.class
+com\lpc\struts\ExcelWorkSheet.class
 com\lpc\design\decorator\Test.class
 com\lpc\design\singleton\SingletonThree.class
